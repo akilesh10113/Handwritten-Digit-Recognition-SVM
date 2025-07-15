@@ -44,7 +44,9 @@ The model achieved an accuracy of **97.11%** on the test dataset using a **linea
 
 ## 📸 Screenshot
 
-![SVM](<img width="502" height="550" alt="SVM" src="https://github.com/user-attachments/assets/1fd657e8-e6c0-4fa9-bac8-4033ed393409" />
+Below is a sample output showing the final model accuracy :
+
+![Random Forest Result](![Random Forest](<img width="502" height="550" alt="SVM" src="https://github.com/user-attachments/assets/111af151-5d39-4627-b6d1-25b2ba9b053b" />
 )
 
 
