@@ -44,8 +44,9 @@ The model achieved an accuracy of **97.11%** on the test dataset using a **linea
 
 ## 📸 Screenshot
 
-<img width="800" alt="SVM" src="<img width="502" height="550" alt="SVM" src="https://github.com/user-attachments/assets/a3f8a4df-d634-4a89-8e3f-2d412d5f8251" />
+<img width="800" alt="SVM" src="<img width="502" height="550" alt="SVM" src="https://github.com/user-attachments/assets/1bb295f5-2eaf-4fbd-a8fb-d62c5f154dcf" />
 " />
+
 
 
 
