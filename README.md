@@ -43,8 +43,9 @@ This is a **multi-class classification** problem.
 The model achieved an accuracy of **97.11%** on the test dataset using a **linear kernel SVM**.
 
 ## 📸 Screenshot
-![Sample Output](<img width="502" height="550" alt="SVM" src="https://github.com/user-attachments/assets/72119280-93ec-493b-81cc-739af69ff9d3" />
-)
+
+![Sample Output](Screenshot%202025-07-15%20at%201.49.52%E2%80%AFPM.png)
+
 
 ## 🚀 How to Run
 
